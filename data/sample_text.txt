@@ -1,0 +1,12 @@
+Large language models are neural networks trained on vast amounts of text data.
+They learn to predict the next token in a sequence by analyzing patterns and relationships.
+Temperature is a hyperparameter that controls the randomness of text generation.
+Lower temperatures make the model more deterministic and focused on high-probability tokens.
+Higher temperatures increase diversity but may produce less coherent outputs.
+Tokenization is the process of breaking text into smaller units called tokens.
+These tokens can be words, subwords, or characters depending on the tokenizer design.
+Word embeddings represent tokens as dense vectors in a continuous space.
+Similar words have similar embeddings, enabling semantic reasoning and comparison.
+The softmax function converts model outputs into probability distributions.
+Attention mechanisms allow models to weigh the importance of different input tokens.
+This selective focus enables better understanding of context and long-range dependencies.
